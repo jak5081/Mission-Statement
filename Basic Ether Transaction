@@ -1,1 +1,1 @@
-eth.sendTransaction({from: '[ACCOUNT 1]', to: '[ACCOUNT 2], value: web3.toWei(1, "ether")})
+eth.sendTransaction({from: '[ACCOUNT 1]', to: '[ACCOUNT 2], value: web3.toWei([Quantity], "ether")})
